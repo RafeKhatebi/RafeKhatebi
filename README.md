@@ -1,16 +1,21 @@
 ## Hi there 👋
+ 👋 Hi, I'm Rafe Ahmad Khatebi
+Computer Science Student | Full-Stack Developer
+🔧 Technical Skills
+Frontend: React, JavaScript, TypeScript, HTML/CSS, Tailwind, Bootstrap  
+Backend: Laravel, PHP
+Mobile: Flutter, Dart  
+Databases: MySQL  
+Tools: Git, GitHub
 
-<!--
-**RafeKhatebi/RafeKhatebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Projects
+| Project | Technologies | Description |
+| [Online Topics Platform]| React, API | Dynamic topic management system |
+| [Flash-Chat] | Flutter, Firebase | Real-time messaging app |
+| [Honey Marketplace] | HTML/CSS | E-commerce prototype |
+| [Popular Mosques Directory] | Bootstrap | Global mosque showcase |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Let's Connect
+- LinkedIn:https://linkedin.com/in/khatebi2003
+- Telgram: @EngKhatebi
+- Email: rkhatibi2003@gmail.com
