@@ -63,7 +63,8 @@ Some of the notable systems and websites include:
 ## 📈 **GitHub Analytics**
 <p align="center">
   <a href="https://github.com/RafeKhatebi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
+   [ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=issues,prs&cache_seconds=0
+)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafeKhatebi&layout=compact&theme=vision-friendly-dark"/>
   </a>
 </p>
