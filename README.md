@@ -62,12 +62,18 @@ Some of the notable systems and websites include:
 
 ## 📈 **GitHub Analytics**
 <p align="center">
-  <a href="https://github.com/RafeKhatebi">
-   [ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=issues,prs&cache_seconds=0
-)
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafeKhatebi&layout=compact&theme=vision-friendly-dark"/>
-  </a>
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=false&include_all_commits=true&cache_seconds=1800"/>
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafeKhatebi&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
 </p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeKhatebi&theme=dark&hide_border=false"/>
+</p>
+
 
 ---
 
