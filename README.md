@@ -1,10 +1,9 @@
 # 👋 Hi, I'm **Rafe Ahmad Khatebi**
 
-💻 **Full Stack Web Developer** 
+💻 **Full-Stack Web Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khatebi2003)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/RafeKhatebi)
-[![Twitter](https://img.shields.io/badge/Twitter-@EngKhatebi-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/EngKhatebi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge)](https://rafekhatebi.github.io/portfolio)
 
 > “Turning complex problems into elegant solutions through code”
@@ -12,98 +11,69 @@
 ---
 
 ## 🔥 About Me
-
-Full Stack Developer specializing in **high-performance web applications** with **React, TypeScript, and Tailwind CSS**.  
-Proven expertise in backend development using **PHP, MySQL, and Laravel**.  
-
-- Delivered **15+ responsive applications** with modern UI/UX and **SEO-friendly architecture**.  
-- Experienced in **custom WordPress theme & plugin development**, React integrations, and **secure coding practices** (input validation, CSRF protection).  
-- Currently a **7th semester Computer Science student** at Herat University with a GPA of **92.95/100**.  
+Full-Stack Web Developer passionate about **high-performance, SEO-friendly, and responsive web apps**.  
+Skilled in **React, TypeScript, Tailwind CSS, PHP (Laravel)**, and **MySQL**.  
+Delivered **15+ modern projects** including custom WordPress themes/plugins and React integrations.  
+Currently pursuing a **BSc in Computer Science (7th Semester, GPA 92.95%)** at Herat University.
 
 ---
 
-## 🛠️ Technical Stack
-
+## 🛠️ Tech Stack
 | Frontend | Backend | Database | Core Skills |
-|----------|---------|---------|-------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress) | ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql) | Data Structures & Algorithms • Git & GitHub • Problem Solving • Team Collaboration • Public Speaking |
+|----------|---------|----------|-------------|
+| React • TypeScript • Tailwind CSS • Bootstrap • WordPress | Laravel • PHP • Node.js • Java | MySQL | DSA • Git & GitHub • SEO Best Practices • Problem Solving |
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
+- **Full-Stack Web Developer — Novatech Company (05/2025 – 09/2025)**  
+  - Built and maintained full-stack apps with React, TypeScript, and Laravel  
+  - Optimized performance (30% faster load times) & implemented security best practices  
+  - Delivered 5+ responsive, SEO-friendly applications in a team environment  
 
-- 🟢 **Full Stack Web Developer | Member** — [Novatech Company](https://novatechsoft.com/) *(05/2025 – Present)*  
-- 🟠 **Frontend Developer | Intern** — [Aqsa Group Company](https://aqsagroup.af/) *(04/2025 – 08/2025)*  
-- 🟡 **Frontend | Intern | Member** — CSOFCS | ITCH in Herat University *(2024 – 2025)*  
-- 🔵 **Frontend Intern** — [CTI (Code to Inspire)](https://cti.com/) *(03/2024 – 07/2024)*  
+- **Frontend Developer Intern — Aqsa Group Company (04/2025 – 08/2025)**  
+  - Enhanced interfaces with React, TypeScript, and Tailwind CSS  
+  - Improved accessibility and responsive design  
+
+- **Frontend Intern — CSOFCS / ITCH Herat University (2024 – 2025)**  
+  - Developed SPAs and modern UI components  
+  - Applied performance optimization techniques in team projects  
 
 ---
 
-## 🏆 Projects
-
-I’ve developed **15+ responsive, SEO-friendly applications** with modern UI/UX and secure coding practices:
-
-- 🛠 **Motor-Components**
-- 🛠 **Terminal-System**
-- 🛠 **Club-System**
-- 🛠 **Store-System**
-- 🛠 **School-System**
-- 🛠 **Animation-Site**
-- 🛠 **Portfolio Website**
-
-> Built using **React.js, TypeScript, Tailwind CSS, Laravel, MySQL**, with SEO-optimized architecture and secure coding practices.
+## 🏆 Featured Projects
+- **Motorcycle Parts Store Management System** – Full-stack app for sales, inventory, and customer management with secure auth and reporting (PHP, MySQL, JS, Bootstrap).  
+- **Shoe Store Management System** – Laravel + React + Tailwind app with PDF invoices and advanced reporting.  
+- **Sports Club Management System (ClubMan)** – React + Tailwind + Node.js app for gym membership and attendance tracking.  
+- **AnimeFest Animation Showcase** – Bilingual, responsive site with RTL support, video previews, and dark/light themes (TypeScript, Tailwind).  
+- **Portfolio Website** – Multi-language portfolio with SEO optimization and interactive sections (React, Vite, Tailwind, i18next).
 
 ---
 
 ## 🎓 Education
-
-**BSc Computer Science (Software Engineering)** — Herat University *(2022 – Present, 7th Semester)*  
-- 📊 GPA: **92.95 / 100**  
+**BSc Computer Science (Software Engineering)** — Herat University *(2022 – Present)*  
+📊 **GPA: 92.95 / 100**
 
 ---
 
 ## 📈 GitHub Analytics
-
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafeKhatebi&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafeKhatebi&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeKhatebi&theme=dark&hide_border=false"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RafeKhatebi&theme=darkhub&no-frame=true&row=1&column=5"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RafeKhatebi&theme=react-dark&area=true"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-
-- ⚛️ Advanced React patterns  
-- 🖥️ Next.js framework  
-- 🟢 Laravel framework  
-- 🎨 UI/UX design principles  
+- Advanced React patterns & Next.js  
+- Laravel best practices  
+- UI/UX design principles  
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/khatebi2003)  
-- 🐦 [Twitter @EngKhatebi](https://twitter.com/EngKhatebi)  
-- 📧 [rkhatibi2003@gmail.com](mailto:rkhatibi2003@gmail.com)  
-- 👨‍💻 [GitHub](https://github.com/RafeKhatebi)  
-
----
-
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/khatebi2003) • [GitHub](https://github.com/RafeKhatebi) • [Email](mailto:rkhatibi2003@gmail.com)
