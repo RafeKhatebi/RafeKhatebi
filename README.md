@@ -63,7 +63,7 @@ Currently pursuing a **BSc in Computer Science (7th Semester, GPA 92.95%)** at H
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeKhatebi&theme=dark&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=RafeKhatebi&theme=dark&hide_border=false"/>
 </p>
 
 ---
