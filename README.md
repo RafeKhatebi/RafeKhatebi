@@ -130,8 +130,6 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building **high-
 
 ## 📈 GitHub Analytics
 
-## 📈 GitHub Analytics
-
 <p align="center">
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="160"/>
