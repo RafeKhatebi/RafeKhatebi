@@ -29,7 +29,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building **high-
 
 **📊 Track Record:** Successfully delivered **15+ modern web projects** ranging from custom WordPress themes/plugins to full-stack React applications with Laravel backends.
 
-**🎓 Education:** Currently pursuing **BSc in Computer Science (Software Engineering)** at Herat University (7th Semester) with an outstanding **GPA of 92.95%**.
+**🎓 Education:** Currently pursuing **BSc in Computer Science (Software Engineering)** at Herat University (8th Semester) with an outstanding **GPA of 92.95%**.
 
 ---
 
