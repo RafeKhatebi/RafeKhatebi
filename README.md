@@ -125,38 +125,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building **high-
 - Software Engineering Principles
 - Object-Oriented Programming
 - Computer Networks
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RafeKhatebi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="160"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafeKhatebi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeKhatebi&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RafeKhatebi&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RafeKhatebi&theme=dark&hide_border=true&background=0D1117&dates=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafeKhatebi&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
-</p>
-
----
+----
 
 ## 🌱 Currently Learning & Improving
 
