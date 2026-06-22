@@ -1,7 +1,7 @@
 
 # Rafe Ahmad Khatebi
 
-## Junior Full-Stack Developer
+## Full-Stack Developer
 **React | TypeScript | Laravel | Node.js | MongoDB**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khatebi2003)
