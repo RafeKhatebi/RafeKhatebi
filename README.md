@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Junior Full-Stack Developer passionate about **clean code, design patterns, and scalable architecture**. Built **15+ projects** including dashboards, management systems, and API-driven apps. Strong foundation in **MERN stack + Laravel**.
+Full-Stack Developer passionate about **clean code, design patterns, and scalable architecture**. Built **15+ projects** including dashboards, management systems, and API-driven apps. Strong foundation in **MERN stack + Laravel**.
 
 
 ##  Key Achievements
