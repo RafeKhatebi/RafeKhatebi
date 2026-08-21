@@ -1,111 +1,93 @@
-
 # Rafe Ahmad Khatebi
 
-## Full-Stack Developer
-**React | TypeScript | Laravel | Node.js | MongoDB**
+**Frontend Engineer / Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khatebi2003)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafeKhatebi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://siterafe.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rkhatibi2003@gmail.com)
+I build modern web applications with React, TypeScript, JavaScript, Next.js, and related frontend tools. My work is focused on maintainable UI architecture, clean implementation, performance, and practical engineering decisions.
 
+I also work across backend systems, databases, APIs, and full-stack application flows, which helps me understand products beyond the interface and contribute across the development lifecycle.
 
-## 👨‍💻 About Me
+[LinkedIn](https://linkedin.com/in/khatebi2003) · [Portfolio](https://siterafe.vercel.app/) · [GitHub](https://github.com/RafeKhatebi)
 
-Full-Stack Developer passionate about **clean code, design patterns, and scalable architecture**. Built **15+ projects** including dashboards, management systems, and API-driven apps. Strong foundation in **MERN stack + Laravel**.
+---
 
+## About me
 
-##  Key Achievements
+I am a Software Engineer specializing in frontend development, with a strong interest in React architecture, TypeScript, application performance, clean code, and software design.
 
--  Optimized database queries → **40% faster dashboard load times**
--  Built reusable component library → **reused across 5+ projects**
--  Maintained **100% on-time delivery** during internships
--  Reduced API response time by **25%** through query optimization
+My main stack includes React, TypeScript, JavaScript, Next.js, React Native, Tailwind CSS, and Vite. I also have full-stack experience with Laravel, PHP, Node.js, MySQL, MongoDB, and REST APIs.
 
+I enjoy working on real applications, improving existing systems, debugging complex issues, and contributing to collaborative and open-source development environments.
 
-##  Tech Stack
+---
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React.js, TypeScript, Tailwind CSS, SASS, Bootstrap, HTML5/CSS3 |
-| **Backend** | Node.js, Express.js, PHP/Laravel, REST APIs |
-| **Database** | MongoDB, MySQL |
-| **Architecture** | MVC, Component-Based Design, Design Patterns (Factory, Singleton, Observer) |
-| **Tools** | Git/GitHub, Jira (Agile), Postman, Vite |
-| **Practices** | Clean Code, DRY, SOLID Principles, SEO Optimization |
+## Current role
 
+**Frontend Engineer — Tirana Tech Studio**
 
-##  Experience
+Working on modern frontend applications using React, TypeScript, JavaScript, and React Native. My work includes building scalable interfaces, improving performance, maintaining existing features, debugging production issues, and contributing to open-source and team-based development workflows.
 
-### Web Developer | **IDEA Afghan**
-*Herat | 07/2025 – 02/2026*
+---
 
-- Built real-time data dashboard handling **500+ daily requests** with **React + Node.js + MongoDB**
-- Implemented role-based access and reporting tools
-- Reduced API response time by **25%** through MongoDB aggregation
-- Applied **clean code principles** and reusable component patterns
+## Tech stack
 
-### Frontend Intern | **Aqsa Group Company**
-*Herat | 04/2025 – 08/2025*
+**Frontend:** React, TypeScript, JavaScript, Next.js, React Native, Tailwind CSS, HTML5, CSS3, Vite
 
-- Developed responsive UI with **React + Tailwind + SASS**
-- Improved accessibility (WCAG compliance) and component reusability
-- Participated in **Agile/Jira** workflow with **100% sprint completion**
-- Collaborated on code reviews and design discussions
+**Backend:** Laravel, PHP, Node.js, REST APIs
 
-### Frontend Member (Intern) | **CSOFCS / ITCH – Herat University**
-*Herat | 2024 – 2025*
+**Databases:** MySQL, MongoDB
 
-- Developed SPAs using **React** and modern JavaScript
-- Implemented performance optimization techniques (lazy loading, memoization)
-- Created reusable UI components following **design system principles**
-- Collaborated in **team-based Git workflow**
+**Testing and tools:** Playwright, Git, GitHub, Postman, Axios
 
+**Engineering:** Clean Code, SOLID, MVC, Design Patterns, Responsive Design, Performance Optimization
 
-##  Featured Projects
+---
 
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **Solar Management System** | React + Laravel + MySQL | Multi-branch, role-based (Admin/Accountant), data isolation |
-| **Prescription System** | Laravel + MySQL | Medical workflow, PDF generation, reusable templates |
-| **Movie Explorer** | React + TMDb API | Search, filters, trailers, responsive |
-| **Portfolio Website** | React + SASS + i18next | Multi-language (Dari/English/Pashto), SEO-ready |
-| **ClubMan (Sports Club)** | **MERN (MongoDB, Express, React, Node.js)** | Gym membership, attendance tracking |
+## Selected projects
 
+### Makanyab
 
-##  Core Competencies
+A location-based discovery platform for finding places and services through search, categories, reviews, favorites, opening hours, and user-generated suggestions.
 
--  **Clean Code** – Readable, maintainable, self-documenting
--  **Design Patterns** – Factory, Singleton, Observer, Module
--  **SOLID Principles** – Single responsibility, Open/closed, Liskov, Interface, Dependency
--  **MVC Architecture** – Separation of concerns
--  **DRY & KISS** – No duplication, keep it simple
--  **Soft Skills** – Team collaboration, Problem-solving, Communication, Attention to detail
+The platform includes authentication, business owner workflows, social login, public APIs, moderation, and administrative management.
 
+**Tech:** Laravel, PHP, Vite, Tailwind CSS, Alpine.js, Axios, Playwright
 
-##  Education
+### Solar Management System
 
-**BSc Computer Science (Software Engineering)** – Herat University  
-*2022 – Present | 8th Semester | GPA: 92.95%*
+A multi-branch management system for solar businesses, covering sales, purchases, inventory, accounting, employee salaries, reporting, and role-based access with branch-level data separation.
 
-**Relevant Coursework:** Data Structures, Web Development, Databases, Software Architecture, OOP
+**Tech:** Laravel, PHP, MySQL, JavaScript
 
+### Prescription Management System
 
-## 📫 Contact
+A web-based system for managing doctors, patients, diagnoses, medications, prescriptions, dosage information, and reusable medical advice templates.
 
-- 📧 rkhatibi2003@gmail.com
-- 📞 +93 728958423
-- 🌐 [siterafe.vercel.app](https://siterafe.vercel.app)
-- 💻 [github.com/RafeKhatebi](https://github.com/RafeKhatebi)
+**Tech:** Laravel, PHP, MySQL
 
+---
 
-##  Languages
+## Education
 
-| Dari | English | Pashto |
-|------|---------|--------|
-| Native | Excellent (Professional) | Excellent |
+**Bachelor of Computer Science, Software Engineering**  
+Herat University · 2022-2026
 
+Relevant areas of study: Data Structures and Algorithms, Design Patterns, Software Engineering, Database Systems, Web Development, Mathematics, Linear Algebra
 
-<p align="center">
-  <i>"Write clean code. Apply patterns. Build with purpose."</i>
-</p>
+---
+
+## Current technical focus
+
+- Advanced React and TypeScript
+- Next.js and modern frontend architecture
+- Application performance and code quality
+- Testing with Playwright
+- Design patterns and software architecture
+- Open-source development
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/khatebi2003](https://linkedin.com/in/khatebi2003)
+- Portfolio: [siterafe.vercel.app](https://siterafe.vercel.app/)
+- GitHub: [github.com/RafeKhatebi](https://github.com/RafeKhatebi)
